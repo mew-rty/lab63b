@@ -19,10 +19,12 @@ https://youtu.be/VX-QNQcO-b4
 1.เสียบไมโครคอนโทเลอร์เข้ากับ USB to serial
   
   ![image](https://user-images.githubusercontent.com/80879829/112275297-0cb22180-8cb2-11eb-9a5b-5272312e3d28.png)
+
 2.ดูหน้าตัวอย่างโปรแกรม platfromio.ini src ----> vi src/main.cpp 0twf
  อัพโหลดโปรเเกรมเข้าไปยังไมโครคอนโทรเลอร์โดยใช้คำสั่ง pio run -t upload เเล้วกดรีเซ็ต
  ![image](https://user-images.githubusercontent.com/80879829/112291089-64f11f80-8cc2-11eb-8323-9590a2a63cad.png)
- 2.1 เปิดบราวเซอร์ที่สามารถกดเข้าไปดูเว็บไซต์ทั่วไปด้
+
+2.1 เปิดบราวเซอร์ที่สามารถกดเข้าไปดูเว็บไซต์ทั่วไปด้
 
 ## การบันทึกผลการทดลอง
 ## อภิปรายการทดลอง
